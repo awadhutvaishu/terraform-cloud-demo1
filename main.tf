@@ -15,5 +15,5 @@ provider "aws" {
   tags= {
   name = "instance-1"
   }
-   cunt = 1
+   count = 1
    }
